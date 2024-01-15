@@ -24,4 +24,4 @@
 ## 기능 화면
 |시작 화면|설명|
 |:---:|:---:|
-|![image](https://user-images.githubusercontent.com/66003567/216818254-18683c3f-af80-4009-b2cc-35bdee865f23.png)|ㄴㅇ린ㅇ러ㅣ나어리나어리나어|
+|![portfolio-1](https://github.com/smcha16/dd-land/assets/140796984/f8d18fdc-63df-417a-9538-b02a72ad626b)|홈페이지에 들어가면 제일 먼저 나오는 index.html 페이지입니다.|
