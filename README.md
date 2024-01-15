@@ -36,4 +36,4 @@
 
 |편의시설 상세1|편의시설 상세2|설명|
 |:---:|:---:|:---:|
-|![detail3](https://github.com/smcha16/dd-land/assets/140796984/5d9a7b7c-503c-4c3d-a744-1758ee5a5db1)|![detail4](https://github.com/smcha16/dd-land/assets/140796984/9bfa03cd-b9e2-4654-8662-3d774ed7ca6a)|편의시설 상세 조회 페이지입니다.해당 편의시설의 운영정보와 위치를 확인할 수 있습니다.|
+|![detail4](https://github.com/smcha16/dd-land/assets/140796984/9bfa03cd-b9e2-4654-8662-3d774ed7ca6a)|![detail5](https://github.com/smcha16/dd-land/assets/140796984/9a5c138e-8b3a-41df-93ea-1a3aea2a56a8)|편의시설 상세 조회 페이지입니다.해당 편의시설의 운영정보와 위치를 확인할 수 있습니다. 지도는 카카오맵 API를 사용하여 임의로 찍은 실제 위치가 표시됩니다.|
