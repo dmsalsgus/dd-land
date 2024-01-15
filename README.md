@@ -24,7 +24,7 @@
 ## 기능 화면
 |시작 화면-index.do|설명|
 |:---:|:---:|
-|![portfolio-1](https://github.com/smcha16/dd-land/assets/140796984/f8d18fdc-63df-417a-9538-b02a72ad626b)|홈페이지에 들어가면 제일<br>먼저 나오는 index.do 페이지입니다.|
+|![portfolio-1](https://github.com/smcha16/dd-land/assets/140796984/f8d18fdc-63df-417a-9538-b02a72ad626b)|홈페이지에 들어가면 나오는 메인 페이지입니다.|
 
 |파크 이용안내-user/guide/use-guide/view.do|설명|
 |:---:|:---:|
@@ -32,7 +32,7 @@
 
 |편의시설-user/guide/convenient/view.do|설명|
 |:---:|:---:|
-|![detail2](https://github.com/smcha16/dd-land/assets/140796984/497d46a4-2832-4328-a908-cc35cfa819ce)|사용자들이 놀이공원의 모든 편의시설을 한번에 볼 수 있도록 정리한 리스트 페이지입니다.|
+|![detail2](https://github.com/smcha16/dd-land/assets/140796984/497d46a4-2832-4328-a908-cc35cfa819ce)|사용자들이 놀이공원의 <br>모든 편의시설을 한번에 볼 수 있도록 정리한 리스트 페이지입니다.|
 
 |편의시설 상세1|편의시설 상세2|설명|
 |:---:|:---:|:---:|
