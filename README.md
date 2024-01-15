@@ -22,6 +22,18 @@
   </ul>
 
 ## 기능 화면
-|시작 화면|설명|
+|시작 화면-index.do|설명|
 |:---:|:---:|
-|![portfolio-1](https://github.com/smcha16/dd-land/assets/140796984/f8d18fdc-63df-417a-9538-b02a72ad626b)|홈페이지에 들어가면 제일 먼저 나오는 index.html 페이지입니다.|
+|![portfolio-1](https://github.com/smcha16/dd-land/assets/140796984/f8d18fdc-63df-417a-9538-b02a72ad626b)|홈페이지에 들어가면 제일<br>먼저 나오는 index.do 페이지입니다.|
+
+|파크 이용안내-user/guide/use-guide/view.do|설명|
+|:---:|:---:|
+|![detail1](https://github.com/smcha16/dd-land/assets/140796984/b54ae7f7-c88e-4760-93cd-4a82654e674e)|정적 페이지로, 파크를 이용시에 주의해야 할 사항들을 적은 안내 페이지입니다.|
+
+|편의시설-user/guide/convenient/view.do|설명|
+|:---:|:---:|
+|![detail2](https://github.com/smcha16/dd-land/assets/140796984/497d46a4-2832-4328-a908-cc35cfa819ce)|사용자들이 놀이공원의 모든 편의시설을 한번에 볼 수 있도록 정리한 리스트 페이지입니다.|
+
+|편의시설 상세1|편의시설 상세2|설명|
+|:---:|:---:|:---:|
+|![detail3](https://github.com/smcha16/dd-land/assets/140796984/5d9a7b7c-503c-4c3d-a744-1758ee5a5db1)|![detail4](https://github.com/smcha16/dd-land/assets/140796984/9bfa03cd-b9e2-4654-8662-3d774ed7ca6a)|편의시설 상세 조회 페이지입니다.해당 편의시설의 운영정보와 위치를 확인할 수 있습니다.|
