@@ -37,3 +37,13 @@
 |편의시설 상세1|편의시설 상세2|설명|
 |:---:|:---:|:---:|
 |![detail4](https://github.com/smcha16/dd-land/assets/140796984/9bfa03cd-b9e2-4654-8662-3d774ed7ca6a)|![detail5](https://github.com/smcha16/dd-land/assets/140796984/9a5c138e-8b3a-41df-93ea-1a3aea2a56a8)|편의시설 상세 조회 페이지입니다.해당 편의시설의 운영정보와 위치를 확인할 수 있습니다. 지도는 카카오맵 API를 사용하여 임의로 찍은 실제 위치가 표시됩니다.|
+
+|가이드맵|가이드맵|설명|
+|:---:|:---:|:---:|
+|![detail6](https://github.com/smcha16/dd-land/assets/140796984/48d30baf-cc67-4be0-9278-0d539362d72b)|![detail7](https://github.com/smcha16/dd-land/assets/140796984/32c2a947-496e-4cca-b9c6-8a823c4f9034)|놀이공원의 위치 정보를 가진 모든 시설들의 위치를 볼 수 있는 전체 지도입니다.|
+
+|채팅|채팅|설명|
+|:---:|:---:|:---:|
+|![detail8](https://github.com/smcha16/dd-land/assets/140796984/50577e9c-4b2a-4dc9-a28c-c756371a19af)|![detail9](https://github.com/smcha16/dd-land/assets/140796984/b706b317-18fb-410d-8709-3e28c7555c79)|다수의 익명 사용자들과 놀이공원의 정보를 나눌 수 있는 공유할 수 있는 오픈 채팅방입니다.|
+
+
